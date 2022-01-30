@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/377db388-dbf2-4dfb-b843-d5d4b4796085/deploy-status)](https://app.netlify.com/sites/cocky-bose-45bcc9/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df452f46-7947-4bb7-a9d6-724ab6f3ba96/deploy-status)](https://app.netlify.com/sites/sad-heisenberg-2fab8e/deploys)
 
 ## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
 
